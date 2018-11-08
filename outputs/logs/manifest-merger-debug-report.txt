@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\a0763b8e9559cfc7e31d52f1301b1ea4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d772e46b2f68f12c1f2b684ac952c822\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15b813c40d9156b6118bfe8b47224bd5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\946f82860fd0ad2305b3549bf0ced90e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e89cae77f9851c675698b8edff254a92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\16ac3a8016f30d1e1be6264f176fa515\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6396de8c1aee6ab0209d316c3b5d9678\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7ac9935969bac79c0ee7cd5ed9dcf9a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\593348f6d7111282728646ea895d1f56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4e9da0d5429670059fef80f72e5387f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f1d3436c4530c3440dbeaa60acc70bb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f8fd142545301dde000ae6b6d943be9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac4e3a5e44b59d0189a3956834a14d8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8c2d3956962001e00bf53e4b5cc63ed1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\90a54adbbdce992a598c057b3cff4153\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cfe190327b87f7af72112da495a0a6dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f2dfb85caf9ce0c182ec735c294fd62\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f0b9f579584d40a64171887c29267fb6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\870a4c2904493a8690b37719c8b09d72\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\428766bf8cefafba69fd83c536cdcb8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ce7c8ab25a648fb6048fcf909524dac5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\83bc6d4944bc6bed0bc8f85ab3528f0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\58af9a21dc7b273fcf368ba3d9e44bd5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\976286f62a367841063cc562bc94555a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1b0eed69ff1721d3205c5d0a14fd9738\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e874957ea91520e71042ed0c73ef715e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3d6aea0536e9781479597778f76cd5bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\53834b18d50ecef5d95a835b03fd97df\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15b813c40d9156b6118bfe8b47224bd5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15b813c40d9156b6118bfe8b47224bd5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f2dfb85caf9ce0c182ec735c294fd62\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f2dfb85caf9ce0c182ec735c294fd62\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f0b9f579584d40a64171887c29267fb6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f0b9f579584d40a64171887c29267fb6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f2dfb85caf9ce0c182ec735c294fd62\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:12:9-28
+activity#com.example.caregiver.activity.LoginActivity
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:13:9-20:20
+	android:screenOrientation
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:14:13-49
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:13:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.caregiver.activity.MainActivity
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:21:9-22:51
+	android:screenOrientation
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:21:19-56
+activity#com.example.caregiver.activity.SearchActivity
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:23:9-24:51
+	android:screenOrientation
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.example.caregiver.activity.ResultActivity
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:25:19-58
+activity#com.example.caregiver.activity.CaregiverInfoActivity
+ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:26:9-67
+	android:name
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml:26:19-65
+uses-sdk
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\a0763b8e9559cfc7e31d52f1301b1ea4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\a0763b8e9559cfc7e31d52f1301b1ea4\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d772e46b2f68f12c1f2b684ac952c822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d772e46b2f68f12c1f2b684ac952c822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15b813c40d9156b6118bfe8b47224bd5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\15b813c40d9156b6118bfe8b47224bd5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\946f82860fd0ad2305b3549bf0ced90e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\946f82860fd0ad2305b3549bf0ced90e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e89cae77f9851c675698b8edff254a92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e89cae77f9851c675698b8edff254a92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\16ac3a8016f30d1e1be6264f176fa515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\16ac3a8016f30d1e1be6264f176fa515\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6396de8c1aee6ab0209d316c3b5d9678\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\6396de8c1aee6ab0209d316c3b5d9678\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7ac9935969bac79c0ee7cd5ed9dcf9a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7ac9935969bac79c0ee7cd5ed9dcf9a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\593348f6d7111282728646ea895d1f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\593348f6d7111282728646ea895d1f56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4e9da0d5429670059fef80f72e5387f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4e9da0d5429670059fef80f72e5387f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f1d3436c4530c3440dbeaa60acc70bb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f1d3436c4530c3440dbeaa60acc70bb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f8fd142545301dde000ae6b6d943be9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f8fd142545301dde000ae6b6d943be9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac4e3a5e44b59d0189a3956834a14d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ac4e3a5e44b59d0189a3956834a14d8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8c2d3956962001e00bf53e4b5cc63ed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8c2d3956962001e00bf53e4b5cc63ed1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\90a54adbbdce992a598c057b3cff4153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\90a54adbbdce992a598c057b3cff4153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cfe190327b87f7af72112da495a0a6dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cfe190327b87f7af72112da495a0a6dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f2dfb85caf9ce0c182ec735c294fd62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\9f2dfb85caf9ce0c182ec735c294fd62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f0b9f579584d40a64171887c29267fb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\f0b9f579584d40a64171887c29267fb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\870a4c2904493a8690b37719c8b09d72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\870a4c2904493a8690b37719c8b09d72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\428766bf8cefafba69fd83c536cdcb8b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\428766bf8cefafba69fd83c536cdcb8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ce7c8ab25a648fb6048fcf909524dac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ce7c8ab25a648fb6048fcf909524dac5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\83bc6d4944bc6bed0bc8f85ab3528f0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\83bc6d4944bc6bed0bc8f85ab3528f0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\58af9a21dc7b273fcf368ba3d9e44bd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\58af9a21dc7b273fcf368ba3d9e44bd5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\976286f62a367841063cc562bc94555a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\976286f62a367841063cc562bc94555a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1b0eed69ff1721d3205c5d0a14fd9738\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1b0eed69ff1721d3205c5d0a14fd9738\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e874957ea91520e71042ed0c73ef715e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e874957ea91520e71042ed0c73ef715e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3d6aea0536e9781479597778f76cd5bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3d6aea0536e9781479597778f76cd5bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\53834b18d50ecef5d95a835b03fd97df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\parkk\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\53834b18d50ecef5d95a835b03fd97df\AndroidManifest.xml:20:5-44
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+		ADDED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dev\workspace\caregiver\app\src\main\AndroidManifest.xml
